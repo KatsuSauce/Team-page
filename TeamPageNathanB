@@ -1,1 +1,76 @@
+<!DOCTYPE html>
+  <html lang="en-US">
+  <head> <title> Newly Plant Crew</title><br/> <h1>Plant Crew</h1>
+  </head>
+ <body>
+ <style>
+  section div p {
+     padding: 0px 15px;
+  }
+</style>
+<section style="background-color:#FFCC99; overflow:auto;">
+     <div style="float:left; width: 50%;">
+          <p style="padding: 0px 15px;">...<p>
+     </div>
 
+     <div style="float:right; background-color:#FFEECC; width: 50%;">
+          <p style="padding: 0px 15px;">...</p>
+          <p style="padding: 0px 15px;">...</p>
+     </div>
+</section>
+
+   <p id="bee">With our first member who was presistent as all every to join and look after the plants GIVE IT UP FOR BEEE.</p>
+
+    <img 
+        src="bee.jpg" 
+      alt="bee on a small flowerpot" 
+  style="float: left; margin-right: 15px;"
+  />
+                    
+  <p>The Honey bee probablying being a few weeks or little months old is a diligent worker as it keeps away tiny nats away from the plant as an whole.</p>
+
+  <p>Will be sad when he goes as it cloes to winter and now just hope it or future bee approach the plant after decemeber</p> 
+
+  <p  id="plants">This is Big and little bro two sproutlings in the same pout as they are main focus for this plants crew.</p>
+
+  <img 
+    src="plants.jpg" 
+    alt="two sproutlings" 
+    style="float: left; margin-right: 15px;"
+    />
+                    
+    <p>Little bro is a small sproutling of a red pepper.And the big bro is a bigger one 
+        having sprout a few days before the other one making that much of a height difference.</p>
+
+  <p>In these two are taken care of by me and the bee as I water it and the bee protect it by doing whhatever it wants around the pot.</p>
+  
+  <p id="me">This is me the one who started the whole sha-bang and all.</p>
+
+  <img 
+    src="me.jpg" 
+    alt="a boy looking into a camera" 
+    style="float: left; margin-right: 15px;"
+    />
+                    
+      <p>Started to grow a few seedling and these sprouted first so I decided to plant them little did I know it would attract that bee the bee doesn't sting me when I'm around.</p>
+
+      <p>To watch them grow and learn and practice about their grow and regret how late I planted them and hope they grow bigger before the winter to survive .</p>
+    </body>
+    <footer>
+    <style>
+    .fixed-box {
+        position: fixed;
+        left: 0px;
+        bottom: 60px;
+        width: 50px;
+        height: 50px;
+        border: 50px dashed gold;
+        background-color: rgba(4, 46, 29, 0.315);
+        color: rgba(0,0,255);
+        }
+    </style>
+   <div class="fixed-box">
+    hiiiii end of your page
+   </div>
+   </footer>
+ </html>
