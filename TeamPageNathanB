@@ -2,13 +2,16 @@
   <html lang="en-US">
   <head> <title> Newly Plant Crew</title><br/> <h1>Plant Crew</h1>
   </head>
- <body>
- <style>
-  section div p {
-     padding: 0px 15px;
-  }
-</style>
-<section style="background-color:#FFCC99; overflow:auto;">
+   <body>
+   <style>
+      section div p {
+       padding: 0px 15px;
+      }
+    </style>
+      <a href="#bee">Take me to Bee.</a>
+    <a href="#plants">Take me to Sprouts.</a>
+    <a href="#me">Take me to me.</a>
+  <section style="background-color:#FFCC99; overflow:auto;">
      <div style="float:left; width: 50%;">
           <p style="padding: 0px 15px;">...<p>
      </div>
