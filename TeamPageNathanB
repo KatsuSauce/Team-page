@@ -27,7 +27,7 @@
     <img 
         src="bee.jpg" 
       alt="bee on a small flowerpot" 
-  style="float: left; margin-right: 15px;"
+  style="float: left; margin-right: 15px; width="125px; height=125px;"
   />
                     
   <p>The Honey bee probablying being a few weeks or little months old is a diligent worker as it keeps away tiny nats away from the plant as an whole.</p>
@@ -39,7 +39,7 @@
   <img 
     src="plants.jpg" 
     alt="two sproutlings" 
-    style="float: left; margin-right: 15px;"
+    style="float: left; margin-right: 15px; width="125px; height=125px;"
     />
                     
     <p>Little bro is a small sproutling of a red pepper.And the big bro is a bigger one 
@@ -52,7 +52,7 @@
   <img 
     src="me.jpg" 
     alt="a boy looking into a camera" 
-    style="float: left; margin-right: 15px;"
+    style="float: left; margin-right: 15px; width="125px; height=125px;"
     />
                     
       <p>Started to grow a few seedling and these sprouted first so I decided to plant them little did I know it would attract that bee the bee doesn't sting me when I'm around.</p>
